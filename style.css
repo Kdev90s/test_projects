@@ -1,0 +1,131 @@
+ body{
+              margin: 0px;
+              padding: 0px;
+               background-color:#0a3d62;
+               height: 3000px;
+        }
+       
+          header h2{
+                 color:#e55039;
+                 font-size:48px;
+                 text-align: center;
+                 background:#3c6382;
+                 padding: 15px;
+                 font-family: 'Montserrat', sans-serif;
+                 text-decoration: center;
+                 display:-block
+          }
+
+          header p{
+              color:#e55039;
+              font-size:24px;
+              padding:12px;
+              background:#60a3bc ;
+              font-family: 'Montserrat', sans-serif;
+              text-decoration:center;
+              display: inline-block;
+              
+          }
+
+          nav{
+              background:#60a3bc ;
+          }
+
+          nav p{
+              text-align: center;
+              font-size:24px;
+              color:#e55039;
+              font-family: 'Montserrat', sans-serif;
+              text-decoration: center;
+              display:inline-block;
+              display: flex;
+              justify-content:center
+          }
+           
+          .Twitter{
+             color:#e55039;
+             background-color:#3c6382;
+             padding: 5px;
+             font-size:24px;
+             display: flex;
+             justify-content:center;
+             text-decoration: none;
+            font-family:'Montserrat', sans-serif ; 
+            
+          }
+
+
+          .Instagram{
+            color:#e55039;
+             background-color:#3c6382;
+             padding: 5px;
+             font-size:24px;
+             display: flex;
+             justify-content:center;
+             text-decoration: none;
+              font-family:'Montserrat', sans-serif ;
+          }
+
+          .Quora{
+            color:#e55039;
+             background-color:#3c6382;
+             padding: 5px;
+             font-size:24px;
+             display: flex;
+             justify-content:center;
+             text-decoration: none;
+              font-family:'Montserrat', sans-serif ;
+          }
+
+          .Github{
+              color:#e55039;
+              background-color:#3c6382;
+              padding: 5px;
+              font-size:24px;
+              display: flex;
+              justify-content:center;
+              text-decoration: none;
+              font-family:'Montserrat', sans-serif ;
+          }
+          
+            footer{
+                 background-color:#3c6382;
+                 color:#e55039;
+                 font-size:18px;
+                 font-family:'Montserrat', sans-serif; 
+                 text-align:left;
+                 text-decoration: center;
+                 display:inline-block
+                 }
+
+                 .list{
+                   list-style-image: url('HTML_pprojects/Img_file/twitter,png')
+
+                 }
+
+                 form{
+                    background-color:#3c6382;
+                    color: #e55039;
+                    font-family:'Montserrat', sans-serif ;
+                    font-size: 18px;
+                 }
+
+                 form .child{
+                   display: flex;
+                   justify-content: flex-end;
+                }   
+
+              .contanier{
+                 color:#e55039;
+                 font-size:24px;
+                 font-family:'Montserrat', sans-serif ;
+              }
+              .submit-btn{
+                  color:#e55039;
+                  background-color:#8ec2d4;
+                  display: flex;
+                  justify-content:flex-end;
+                  padding:5px 10px;
+                  
+              }
+              
